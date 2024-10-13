@@ -76,7 +76,7 @@ Iteration,Best Accuracy,Best Kernel,Best Nu
 To execute the script, simply run:
 
 ```bash
-python svm_optimization.py
+python main.py
 ```
 
 ### Sample Output:
